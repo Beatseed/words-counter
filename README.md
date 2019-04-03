@@ -1,2 +1,2 @@
 # words-counter
-Spark application to count words, to test hardware
+Spark application to count words, for testing hardware
